@@ -12,7 +12,7 @@ end
 
 # Definición de los parametros
 array = [2, 7, 11, 15]  
-target = 7              
+target = 9
 
 # Impresion de resultados
 puts "El arreglo es: #{array}\nEl objetivo: #{target}"
